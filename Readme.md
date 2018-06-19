@@ -354,6 +354,7 @@ $ sudo apt-get ssmtp
 ```
 
 ### Step 2: Configuration
+
 SSMTP has two configuration files;
 - /etc/ssmtp/ssmtp.conf - configuration file
 - /etc/ssmtp/revaliases - reverse aliases file
